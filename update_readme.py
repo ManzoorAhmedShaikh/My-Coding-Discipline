@@ -39,7 +39,7 @@ def update_readme():
         total_problems += len(problems)
 
     # Generate README content
-    readme_content = """# my-coding-discipline
+    readme_content = """# My Coding Discipline
 
 Daily DSA practice in Python | Building consistency and mastering problem-solving patterns
 

@@ -1,4 +1,4 @@
-# my-coding-discipline
+# My Coding Discipline
 
 Daily DSA practice in Python | Building consistency and mastering problem-solving patterns
 

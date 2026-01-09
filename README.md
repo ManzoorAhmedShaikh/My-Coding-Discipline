@@ -5,13 +5,13 @@ Daily DSA practice in Python | Building consistency and mastering problem-solvin
 ## 2026 Progress
 
 ### January
-**Total Problems: 2**
+**Total Problems: 3**
 
-Problems: roman_to_integer, longest_common_prefix
+Problems: roman_to_integer, longest_common_prefix, length_of_last_word
 
 
 ---
 
-**Total Problems Solved in 2026: 2**
+**Total Problems Solved in 2026: 3**
 
-*Last Updated: 2026-01-08*
+*Last Updated: 2026-01-09*
